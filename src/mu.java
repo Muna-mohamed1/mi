@@ -4,6 +4,7 @@ public class mu {
         public mu(int a)
         {
             a=0;
+            a=89;
             System.out.println("s");
         }
 
